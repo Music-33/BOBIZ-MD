@@ -555,7 +555,7 @@ await conn.sendMessage(from , { text: 'تعذر ارسال التطبيق آسف
 	        case 'panal' : 
 		 await conn.sendMessage(from , { audio : fs.readFileSync("./src/alive.mpeg") , mimetype : 'audio/mpeg' , ptt: true  } , { quoted: mek })
 		      const msg = `╭────────────────────╮
-                  BOBIZ BOT
+                  MUSIC BOT
 ╰────────────────────╯
 ╭────────────────────╮
 │ ❀  @mohamed lmaysse
@@ -578,7 +578,7 @@ www.instagram.com/tgvnmusic
 │  ⸙ .alive      هل البوت شغال ام لا
 │  ⸙ .song           تحميل الموسيقى 
 ╰────────────────────╯
-     ʙʏ ɴᴏᴜʀᴇᴅᴅɪɴᴇ ᴏᴜᴀғʏ`
+     ʙʏ MOHAMED LMAYSSE
 		      await conn.sendMessage(from , { text: msg }, { quoted: mek } )  
 		      
 		      break
