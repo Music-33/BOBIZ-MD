@@ -1,6 +1,6 @@
 {
     "name": "BOBIZ - MD",
-    "description": "BOBIZMD  - Makes it easy and fun to use Whatsapp.",
+    "description": "MUSICBOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
     "repository": "https://github.com/bobizbotmd/BOBIZ-MD",
@@ -16,22 +16,22 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎃تـابعني على الانستغرام🎃" ,
+            "value": "🎃FOLLOW ME ON INSTAGRAM 🎃" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "http://instagram.com/noureddine_ouafy" ,
+            "value": "http://instagram.com/tgvnmusic" ,
             "required": true
       },
      "URL_2NAME": {
             "description": "",
-            "value": "✨Star on Github سكريبت البوت✨" ,
+            "value": "✨FACEBOOK✨" ,
             "required": true
       },
        "URL_2LINK": {
-            "description": "",
-            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
+            "description": "https://www.facebook.com/mohamed.lmyasse",
+            "value": "" ,
             "required": true
       },
       
