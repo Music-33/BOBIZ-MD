@@ -1,8 +1,8 @@
 {
-  "name": "Bobiz-MD",
+  "name": "MUSIC BOT",
   "version": "1.0.0",
   "description": "undefined",
-  "main": "/bobiz/index.js",
+  "main": "/MUSIC/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
