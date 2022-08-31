@@ -26,5 +26,5 @@ module.exports = {
     VIDEO_UP: process.env.VIDEO_UP === undefined ? '*📤Uploading your video...*' : process.env.VIDEO_UP,
     FILE_DOWN: process.env.FILE_DOWN === undefined ? '*📥Downloading your file...*' : process.env.FILE_DOWN,
     FILE_UP: process.env.FILE_UP === undefined ? '*📤Uploading your file...*' : process.env.FILE_UP,
-    STIC_WM:process.env.STIC_WM === undefined ? 'BOBIZ-MD' : process.env.STIC_WM,
+    STIC_WM:process.env.STIC_WM === undefined ? 'MUSIC BOT' : process.env.STIC_WM,
 };
